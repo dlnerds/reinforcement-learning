@@ -10,3 +10,7 @@
 
 * [Artificial Intelligence A-Z™: Learn How To Build An AI](https://www.udemy.com/artificial-intelligence-az)
 * [Advanced AI: Deep Reinforcement Learning in Python](https://www.udemy.com/deep-reinforcement-learning-in-python/)
+
+# Udacity Course
+
+* [Reinforcement Learning: CS8803](https://www.udacity.com/course/reinforcement-learning--ud600#)
