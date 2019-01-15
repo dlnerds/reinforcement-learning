@@ -14,3 +14,7 @@
 # Udacity Course
 
 * [Reinforcement Learning: CS8803](https://www.udacity.com/course/reinforcement-learning--ud600#)
+
+# Random Resources
+
+* [awesome-rl](https://github.com/aikorea/awesome-rl)
