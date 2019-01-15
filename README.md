@@ -3,6 +3,7 @@
 * https://selfdrivingcars.mit.edu/deeptraffic-documentation/
 * https://deeplearning.mit.edu/
 * [ConvNetJS Deep Q Learning Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+* [MIT Deep Learning YouTube Channel](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 
 # Udemy Courses
