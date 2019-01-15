@@ -18,3 +18,6 @@
 # Random Resources
 
 * [awesome-rl](https://github.com/aikorea/awesome-rl)
+* [5 ways to Get Started with Reinforcement Learning](https://buzzrobot.com/5-ways-to-get-started-with-reinforcement-learning-b96d1989c575)
+* [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
+* [Implementing Deep Q learning with a single python script.](https://gist.github.com/EderSantana/c7222daa328f0e885093#file-qlearn-py-L157)
